@@ -2,13 +2,16 @@
   "ExpandedNodes": [
     "",
     "\\e2e",
+    "\\e2e\\src",
     "\\src",
     "\\src\\app",
+    "\\src\\app\\orders",
     "\\src\\app\\orders\\order",
     "\\src\\app\\orders\\order-items",
+    "\\src\\app\\shared",
     "\\src\\assets",
     "\\src\\environments"
   ],
-  "SelectedNode": "\\src\\appStructure.txt",
+  "SelectedNode": "\\src\\app\\shared\\customer.service.ts",
   "PreviewInSolutionExplorer": false
 }
